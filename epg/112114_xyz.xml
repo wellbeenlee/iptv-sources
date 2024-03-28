@@ -56721,6 +56721,9 @@
 	<programme channel="纯享4K" start="20240329030600 +0800" stop="20240329033600 +0800">
 		<title lang="zh">信仰的感召4K 铁肩道义 李大钊</title>
 	</programme>
+	<programme channel="纯享4K" start="20240329033600 +0800" stop="20240329041800 +0800">
+		<title lang="zh">远方的家4K 长江行（104） 万里长江归大海</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -68772,6 +68775,9 @@
 	<programme channel="newtv精品纪录" start="20240329031300 +0800" stop="20240329033700 +0800">
 		<title lang="zh">01_秦岭大熊猫</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20240329033700 +0800" stop="20240329040100 +0800">
+		<title lang="zh">02_秦岭金丝猴</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -68822,6 +68828,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20240329025100 +0800" stop="20240329033600 +0800">
 		<title lang="zh">05_钢的琴</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20240329033600 +0800" stop="20240329042200 +0800">
+		<title lang="zh">06_钢的琴</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -68880,6 +68889,9 @@
 	<programme channel="newtv潮妈辣婆" start="20240329025100 +0800" stop="20240329033600 +0800">
 		<title lang="zh">22_新万家灯火</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240329033600 +0800" stop="20240329042200 +0800">
+		<title lang="zh">23_新万家灯火</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -68937,6 +68949,9 @@
 	<programme channel="newtv炫舞未来" start="20240329032600 +0800" stop="20240329033600 +0800">
 		<title lang="zh">对面的小姐姐-李莹</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20240329033600 +0800" stop="20240329035300 +0800">
+		<title lang="zh">火苗-李莹</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -68948,6 +68963,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20240329024700 +0800" stop="20240329033300 +0800">
 		<title lang="zh">01_解放大西南</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20240329033300 +0800" stop="20240329041900 +0800">
+		<title lang="zh">02_解放大西南</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
