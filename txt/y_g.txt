@@ -1,3 +1,12 @@
+•4K「IPV4」,#genre#
+Love Nrture 4K「自然」,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+Loupe 4K「视觉」,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
+Fashion 4K「时尚」,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+4K频道「UHD」,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+
+•4K「IPV6」,#genre#
+4K·UHD「IPV6」,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010006/1.m3u8
+
 •央视「IPV6」,#genre#
 CCTV1「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
 CCTV2「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
@@ -154,73 +163,6 @@ NewTv 精品记录「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamob
 咪咕直播 31,http://gslbserv.itv.cmvideo.cn:80/3000000010000025380/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000025380&livemode=1&stbId=3
 咪咕直播 32,http://gslbserv.itv.cmvideo.cn:80/3000000010000027691/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000027691&livemode=1&stbId=3
 咪咕直播 33,http://gslbserv.itv.cmvideo.cn:80/3000000010000031669/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000031669&livemode=1&stbId=3
-
-•央视「IPV4」,#genre#
-CCTV 4K  超高清,https://tv.iill.top/live/cctv4k&x=3
-CCTV 8K 超高清,https://tv.iill.top/live/cctv8k&x=3
-CCTV 1 综合,https://tv.iill.top/live/cctv1&x=3
-CCTV 2 财经,https://tv.iill.top/live/cctv2&x=3
-CCTV 3 综艺,https://tv.iill.top/live/cctv3&x=3
-CCTV 4 中文国际,https://tv.iill.top/live/cctv4&x=3
-CCTV 5 体育,https://tv.iill.top/live/cctv5&x=3
-CCTV 5+ 体育赛事,https://tv.iill.top/live/cctv5p&x=3
-CCTV 6 电影,https://tv.iill.top/live/cctv6&x=3
-CCTV 7 国防军事,https://tv.iill.top/live/cctv7&x=3
-CCTV 8 电视剧,https://tv.iill.top/live/cctv8&x=3
-CCTV 9 纪录,https://tv.iill.top/live/cctv9&x=3
-CCTV 10 科教,https://tv.iill.top/live/cctv10&x=3
-CCTV 11 戏曲,https://tv.iill.top/live/cctv11&x=3
-CCTV 12 社会与法,https://tv.iill.top/live/cctv12&x=3
-CCTV 13 新闻,https://tv.iill.top/live/cctv13&x=3
-CCTV 14 少儿,https://tv.iill.top/live/cctv14&x=3
-CCTV 15 音乐,https://tv.iill.top/live/cctv15&x=3
-CCTV 16 奥林匹克,https://tv.iill.top/live/cctv16&x=3
-CCTV 16 奥林匹克,https://tv.iill.top/live/cctv16-4k&x=3
-CCTV 17 农村农业,https://tv.iill.top/live/cctv17&x=3
-CCTV 兵器科技,https://tv.iill.top/live/bqkj&x=3
-CCTV 第一剧场,https://tv.iill.top/live/dyjc&x=3
-CCTV 怀旧剧场,https://tv.iill.top/live/hjjc&x=3
-CCTV 风云剧场,https://tv.iill.top/live/fyjc&x=3
-CCTV风云音乐,https://tv.iill.top/live/fyyy&x=3
-CCTV 风云足球,https://tv.iill.top/live/fyzq&x=3
-CCTV 电视指南,https://tv.iill.top/live/dszn&x=3
-CCTV 女性时尚,https://tv.iill.top/live/nxss&x=3
-CCTV 文化精品,https://tv.iill.top/live/whjp&x=3
-CCTV 世界地理,https://tv.iill.top/live/sjdl&x=3
-CCTV 央视高网,https://tv.iill.top/live/gefwq&x=3
-CCTV 央视台球,https://tv.iill.top/live/ystq&x=3
-CCTV 卫生健康,https://tv.iill.top/live/wsjk&x=3
-CGTN 国际,https://tv.iill.top/live/cgtn&x=3
-CGTN Documentary,https://tv.iill.top/live/cgtnjl&x=3
-CGTN Español,https://tv.iill.top/live/cgtne&x=3
-CGTN Français,https://tv.iill.top/live/cgtnf&x=3
-CGTN العربية,https://tv.iill.top/live/cgtna&x=3
-CGTN Русский,https://tv.iill.top/live/cgtnr&x=3
-
-•卫视「IPV4」,#genre#
-浙江卫视,https://tv.iill.top/live/zjws&x=3
-湖南卫视,https://tv.iill.top/live/hunws&x=3
-江苏卫视,https://tv.iill.top/live/jsws&x=3
-东方卫视,https://tv.iill.top/live/dfws&x=3
-北京卫视,https://tv.iill.top/live/bjws&x=3
-广东卫视,https://tv.iill.top/live/gdws&x=3
-重庆卫视,https://tv.iill.top/live/cqws&x=3
-四川卫视,https://tv.iill.top/live/scws&x=3
-东南卫视,https://tv.iill.top/live/dnws&x=3
-天津卫视,https://tv.iill.top/live/tjws&x=3
-黑龙江卫视,https://tv.iill.top/live/hljws&x=3
-辽宁卫视「IPV6,https://tv.iill.top/live/lnws&x=3
-河北卫视「IPV6,https://tv.iill.top/live/hbws&x=3
-山东卫视,https://tv.iill.top/live/sdws&x=3
-安徽卫视,https://tv.iill.top/live/ahws&x=3
-河南卫视,https://tv.iill.top/live/hnws&x=3
-湖北卫视,https://tv.iill.top/live/hubws&x=3
-江西卫视,https://tv.iill.top/live/jxws&x=3
-深圳卫视,https://tv.iill.top/live/szws&x=3
-广西卫视,https://tv.iill.top/live/gxws&x=3
-贵州卫视,https://tv.iill.top/live/gzws&x=3
-新疆卫视,https://tv.iill.top/live/xjws&x=3
-海南卫视,https://tv.iill.top/live/hinws&x=3
 
 •游戏赛事,#genre#
 「虎牙」英雄联盟 1,https://tv.iill.top/huya/660000
